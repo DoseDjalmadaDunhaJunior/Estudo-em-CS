@@ -40,19 +40,15 @@ namespace Linq
             do
             {
                 /*
-                shuffle = shuffle.Take(26)
-                    .LogQuery("Top Half")
-                    .InterleaveSequenceWith(shuffle.Skip(26).LogQuery("Bottom Half"))
-                    .LogQuery("Shuffle")
-                    .ToArray();
+                shuffle = shuffle.Take(26).LogQuery("Bottom Half")
+                    .InterleaveSequenceWith(shuffle.Skip(26).LogQuery("Top Half")
+                    .LogQuery("Shuffle"));
                 */
-
                 shuffle = shuffle.Skip(26)
                     .LogQuery("Bottom Half")
                     .InterleaveSequenceWith(shuffle.Take(26).LogQuery("Top Half"))
                     .LogQuery("Shuffle")
                     .ToArray();
-
                 foreach (var card in shuffle)
                 {
                     Console.WriteLine(card);

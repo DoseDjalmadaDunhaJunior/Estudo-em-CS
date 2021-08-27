@@ -1,0 +1,16 @@
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.AssemblyInfoInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.AssemblyInfo.cs
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.csproj.CoreCompileInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\bin\Debug\net5.0\Linq.exe
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\bin\Debug\net5.0\Linq.deps.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\bin\Debug\net5.0\Linq.runtimeconfig.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\bin\Debug\net5.0\Linq.runtimeconfig.dev.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\bin\Debug\net5.0\Linq.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\bin\Debug\net5.0\ref\Linq.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\bin\Debug\net5.0\Linq.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\ref\Linq.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.genruntimeconfig.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Linq\obj\Debug\net5.0\Linq.csproj.AssemblyReference.cache

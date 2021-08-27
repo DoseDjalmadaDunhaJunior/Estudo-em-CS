@@ -1,0 +1,16 @@
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\bin\Debug\net5.0\Lambda.exe
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\bin\Debug\net5.0\Lambda.deps.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.dev.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\bin\Debug\net5.0\Lambda.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\bin\Debug\net5.0\ref\Lambda.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\bin\Debug\net5.0\Lambda.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.csproj.AssemblyReference.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfoInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfo.cs
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.csproj.CoreCompileInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\ref\Lambda.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Lambda\obj\Debug\net5.0\Lambda.genruntimeconfig.cache

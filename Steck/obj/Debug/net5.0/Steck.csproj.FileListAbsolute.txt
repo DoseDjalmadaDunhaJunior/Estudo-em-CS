@@ -1,0 +1,16 @@
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\bin\Debug\net5.0\Steck.exe
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\bin\Debug\net5.0\Steck.deps.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\bin\Debug\net5.0\Steck.runtimeconfig.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\bin\Debug\net5.0\Steck.runtimeconfig.dev.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\bin\Debug\net5.0\Steck.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\bin\Debug\net5.0\ref\Steck.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\bin\Debug\net5.0\Steck.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.csproj.AssemblyReference.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.GeneratedMSBuildEditorConfig.editorconfig
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.AssemblyInfoInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.AssemblyInfo.cs
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.csproj.CoreCompileInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\ref\Steck.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Steck\obj\Debug\net5.0\Steck.genruntimeconfig.cache

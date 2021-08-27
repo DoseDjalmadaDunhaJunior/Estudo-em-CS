@@ -1,0 +1,16 @@
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\bin\Debug\net5.0\Tipos.exe
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\bin\Debug\net5.0\Tipos.deps.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\bin\Debug\net5.0\Tipos.runtimeconfig.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\bin\Debug\net5.0\Tipos.runtimeconfig.dev.json
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\bin\Debug\net5.0\Tipos.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\bin\Debug\net5.0\ref\Tipos.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\bin\Debug\net5.0\Tipos.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.AssemblyInfoInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.AssemblyInfo.cs
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.csproj.CoreCompileInputs.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\ref\Tipos.dll
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.pdb
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.genruntimeconfig.cache
+D:\CiaCard\Estudo\Estudo_pelo_site_microsoft\HelloWord\Tipos\obj\Debug\net5.0\Tipos.csproj.AssemblyReference.cache
